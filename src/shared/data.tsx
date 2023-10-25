@@ -56,12 +56,12 @@ import typescriptLogo from '~/assets/images/typescript-logo.png';
 export const announcementData: AnnouncementProps = {
   title: 'NEW',
   callToAction: {
-    text: 'Insanely Volted»',
+    text: 'Lavish Master»',
     href: 'https://insanelyvolted.com',
   },
   callToAction2: {
-    text: 'Follow @insanelyvolted on Twitter',
-    href: 'https://twitter.com/intent/user?screen_name=insanelyvolted',
+    text: 'Follow @Lavishmaster on Twitter',
+    href: 'https://twitter.com/intent/user?screen_name=LavishMasterIV',
   },
 };
 
@@ -125,7 +125,7 @@ export const headerData: HeaderProps = {
 export const heroData: HeroProps = {
   title: (
     <>
-      INSANELY <span className="hidden md:inline">VOLTED</span> <span></span> +{' '}
+      Lavish <span className="hidden md:inline">Master</span> <span></span> +{' '}
       <span className="sm:whitespace-nowrap"></span>
     </>
   ),
@@ -133,9 +133,9 @@ export const heroData: HeroProps = {
     <>
       <span className="hidden md:inline">
         <span className="font-semibold underline decoration-primary-600 decoration-wavy decoration-1 underline-offset-2">
-          INSANELY VOLTED  
+          Lavish Master 
         </span>{' '}
-        is a new way to stay VOLTED in real life with your evey day routine <em></em><em></em>
+        Is window cleaning and services IV the people <em></em><em></em>
       </span>{' '}
       
     </>
@@ -215,7 +215,7 @@ export const faqsData: FAQsProps = {
   items: [
     {
       title: 'Who we are and what we do?',
-      description: `.`,
+      description: `A Window Cleaning Company that offers additional Services IV the people.`,
     },
     {
       title: '?',
@@ -477,7 +477,7 @@ export const featuresData: FeaturesProps = {
   header: {
     title: (
       <>
-        Feature <span className="whitespace-nowrap"></span>
+        Featured Services <span className="whitespace-nowrap"></span>
       </>
     ),
     subtitle:
@@ -486,7 +486,7 @@ export const featuresData: FeaturesProps = {
   },
   items: [
     {
-      title: 'Coffee',
+      title: 'Window Cleaning',
       description:
         '',
       icon: IconBrandTailwind,
@@ -496,7 +496,7 @@ export const featuresData: FeaturesProps = {
       },
     },
     {
-      title: 'Supplements',
+      title: 'Free Phones',
       description:
         'Widgets made with Tailwind CSS ready to be used in Marketing Websites, SaaS, Blogs, Personal Profiles, Small Business...',
       icon: IconComponents,
@@ -506,7 +506,7 @@ export const featuresData: FeaturesProps = {
       },
     },
     {
-      title: 'Tea',
+      title: 'Community Solar/Solar',
       description:
         '',
       icon: IconListCheck,
@@ -516,7 +516,7 @@ export const featuresData: FeaturesProps = {
       },
     },
     {
-      title: 'Clothing',
+      title: 'Car Pressure Cleaning/Detailing',
       description:
         '',
       icon: IconRocket,
@@ -589,34 +589,34 @@ export const featuresData3: FeaturesProps = {
   },
   items: [
     {
-      title: 'Next.Js + Tailwind CSS Integration',
-      description: 'Nullam non sodales massa. Ut justo neque, elementum et vehicula vel, pellentesque non orci.',
+      title: 'Window Cleaning',
+      description: ' .',
       icon: IconBrandTailwind,
     },
     {
-      title: 'Ready-to-use Components',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+      title: 'Free Phones/Tablets',
+      description: '',
       icon: IconComponents,
     },
     {
-      title: 'Best Practices',
+      title: 'Community Solar/Solar',
       description: 'Morbi sit amet arcu vitae metus molestie auctor sit amet in risus. Sed vel lacinia purus.',
       icon: IconListCheck,
     },
     {
-      title: 'Excellent Page Speed',
-      description: 'Phasellus id cursus urna. Nullam feugiat tellus sed euismod venenatis.',
+      title: 'Car detailing',
+      description: '',
       icon: IconRocket,
     },
     {
-      title: 'Search Engine Optimization (SEO)',
+      title: '',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla.',
+        '',
       icon: IconArrowsRightLeft,
     },
     {
-      title: 'Open to new ideas and contributions',
-      description: 'Maecenas urna augue, commodo vitae lectus euismod, tempor aliquam arcu.',
+      title: '',
+      description: '',
       icon: IconBulb,
     },
   ],
@@ -625,7 +625,7 @@ export const featuresData3: FeaturesProps = {
 // Content data
 export const contentData: ContentProps = {
   header: {
-    title: 'IV Coffee',
+    title: 'IV Windows',
     subtitle: '..',
     highlight: 'Content',
   },
@@ -1227,7 +1227,7 @@ export const contact2Data: ContactProps = {
 
 // Footer data
 export const footerData: FooterProps = {
-  title: 'INSANELY VOLTED',
+  title: 'Lavish Master',
   links: [
     {
       label: 'Terms & Conditions',
@@ -1355,9 +1355,9 @@ export const footerData: FooterProps = {
     <div className="mr-4 text-sm dark:text-slate-400">
       <span className="float-left mr-1.5 h-5 w-5 rounded-sm bg-[url(https://onwidget.com/favicon/favicon-32x32.png)] bg-cover md:-mt-0.5 md:h-6 md:w-6"></span>
       Made by{' '}
-      <a className="text-blue-600 hover:underline dark:text-gray-200" href="https://onwidget.com/">
+      <a className="text-blue-600 hover:underline dark:text-gray-200" href="https://lavishmaster.com/">
         {' '}
-        Insanely Volted
+        Lavish Master
       </a>{' '}
       · All rights reserved.
     </div>
@@ -1403,7 +1403,7 @@ export const footerData2: FooterProps = {
       Made by{' '}
       <a className="text-blue-600 hover:underline dark:text-gray-200" href="https://insanelyvolted.com/">
         {' '}
-        Insanely Volted
+        Lavish Master
       </a>{' '}
       · All rights reserved.
     </div>

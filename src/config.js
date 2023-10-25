@@ -1,10 +1,10 @@
 module.exports.SITE = {
-  name: 'INSANELY VOLTED',
+  name: 'Lavish Master',
 
   origin: '',
   basePathname: '/',
   trailingSlash: false,
 
-  title: 'INSANELY VOLTED',
+  title: 'Lavish Master',
   description: '',
 };

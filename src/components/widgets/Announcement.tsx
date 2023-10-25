@@ -26,8 +26,8 @@ const Announcement = () => {
           title={callToAction2.text}
         >
           <img
-            src="https://img.shields.io/twitter/url/https/twitter.com/insanelyvolted.svg?style=social&amp;label=Follow%20%40insanelyvolted"
-            alt="Follow @insanelyvolted"
+            src="https://img.shields.io/twitter/url/https/twitter.com/lavishmasteriv.svg?style=social&amp;label=Follow%20%40lavishmasteriv"
+            alt="Follow @LavishMasterIV"
             width="125"
             height="20"
           />
