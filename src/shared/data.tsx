@@ -125,7 +125,7 @@ export const headerData: HeaderProps = {
 export const heroData: HeroProps = {
   title: (
     <>
-      Lavish <span className="hidden md:inline">Master</span> <span></span> +{' '}
+      IV The People<span className="hidden md:inline"></span> <span></span> {' '}
       <span className="sm:whitespace-nowrap"></span>
     </>
   ),
@@ -731,86 +731,11 @@ export const teamData: TeamProps = {
   },
   teams: [
     {
-      name: '...',
+      name: 'Michael Jordan McMath',
       occupation: '...',
       image: {
         src: 'https://images.unsplash.com/photo-1637858868799-7f26a0640eb6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80',
-        alt: 'Cindy Belcher',
-      },
-      items: [
-        {
-          title: 'Know more on Twitter',
-          icon: IconBrandTwitter,
-          href: '#',
-        },
-        {
-          title: 'Know more on Linkedin',
-          icon: IconBrandLinkedin,
-          href: '#',
-        },
-        {
-          title: 'Contact by email',
-          icon: IconMail,
-          href: '#',
-        },
-      ],
-    },
-    {
-      name: '',
-      occupation: '',
-      image: {
-        src: 'https://images.unsplash.com/photo-1614583224978-f05ce51ef5fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2172&q=80',
-        alt: 'Toby Foster',
-      },
-      items: [
-        {
-          title: 'Know more on Twitter',
-          icon: IconBrandTwitter,
-          href: '#',
-        },
-        {
-          title: 'Know more on Linkedin',
-          icon: IconBrandLinkedin,
-          href: '#',
-        },
-        {
-          title: 'Contact by email',
-          icon: IconMail,
-          href: '#',
-        },
-      ],
-    },
-    {
-      name: '',
-      occupation: '',
-      image: {
-        src: 'https://images.unsplash.com/photo-1639628735078-ed2f038a193e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80',
-        alt: 'Clark Bourne',
-      },
-      items: [
-        {
-          title: 'Know more on Twitter',
-          icon: IconBrandTwitter,
-          href: '#',
-        },
-        {
-          title: 'Know more on Linkedin',
-          icon: IconBrandLinkedin,
-          href: '#',
-        },
-        {
-          title: 'Contact by email',
-          icon: IconMail,
-          href: '#',
-        },
-      ],
-    },
-    {
-      name: '',
-      occupation: '',
-      image: {
-        src: 'https://images.unsplash.com/photo-1628260412297-a3377e45006f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80',
-        alt: 'Bella Chase',
+        alt: 'Michael Jordan McMath',
       },
       items: [
         {
@@ -891,8 +816,8 @@ export const pricingData: PricingProps = {
   },
   prices: [
     {
-      title: '',
-      value: 29,
+      title: 'Per Window Pane',
+      value: 4,
       period: '',
       texts: [
         '',
